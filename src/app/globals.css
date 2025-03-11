@@ -1,26 +1,56 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
   --background: #ffffff;
+  --background-dimmed: #ccc;
   --foreground: #171717;
+  --foreground-contrast: #121212;
+  --foreground-dimmed: #7a7a7a;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-background-dimmed: var(--background-dimmed);
   --color-foreground: var(--foreground);
+  --color-foreground-contrast: var(--foreground-contrast);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-foreground-disabled: var(--foreground-dimmed);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #121212;
+    --background-dimmed: #ebebeb;
+    --foreground: #e1e1e1;
+    --foreground-contrast: #ededed;
+    --foreground-dimmed: #ccc;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  @apply font-semibold text-2xl text-foreground-contrast;
+}
+
+h2 {
+  @apply font-semibold text-xl relative w-max text-foreground-contrast;
+}
+
+h2:after {
+  @apply w-full rounded-xl;
+  height: 3px;
+  background: #fff;
+  position: absolute;
+  bottom: -5;
+  left: 0;
+  content: "";
 }

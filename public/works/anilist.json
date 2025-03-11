@@ -1,0 +1,17 @@
+{
+  "title": "Anilist Flutter App",
+  "description": "This is a personal project involving a mobile application that displays an anime list from animelist.com using the Jikan API v4. Users can browse anime within the app. There are known issues with the character list on the detail page sometimes not displaying due to the rate limit imposed by the Jikan API. The app was built using Flutter.",
+  "website": "",
+  "thumbnail": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+  "github": "https://github.com/radityabagaswara/idanim",
+  "type": "Mobile Application",
+  "images": [
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore_filter_2.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore_filter.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202024-03-10%20at%2018.11.16.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202024-03-10%20at%2018.11.49.png"
+  ],
+  "stacks": ["Flutter"]
+}

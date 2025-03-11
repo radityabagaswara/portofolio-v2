@@ -1,0 +1,67 @@
+[
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
+    "title": "Dwi Anugrah Niaga Company Profile",
+    "shortDescription": "A Company profile and landing page for CV Dwi Anugrah Niaga Surabaya.",
+    "stacks": ["NextJS"],
+    "slug": "dwi-anugrah-niaga-compro"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
+    "title": "Dwi Anugrah Niaga Rent Web Application",
+    "shortDescription": "A heavy machinery renting web application for CV Dwi Anugrah Niaga.",
+    "stacks": ["Laravel", "MySQL", "React"],
+    "slug": "dwi-anugrah-niaga-rent"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
+    "title": "Dwi Anugrah Niaga Procurement Web Application",
+    "shortDescription": "A heavy machinery Procurement web application for CV Dwi Anugrah Niaga.",
+    "stacks": ["Laravel", "MySQL", "React"],
+    "slug": "dwi-anugrah-niaga-procurement"
+  },
+  {
+    "image": "https://is3.cloudhost.id/velcro/portofolio/tanyanya/1.jpg",
+    "title": "Tanyanya.id",
+    "shortDescription": "A Web app  that allows content creators to receive anonymous questions and donations.",
+    "stacks": ["Laravel", "React", "PostgreSQL"],
+    "slug": "tanyanya"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
+    "title": "Adi Mitra Tembakau",
+    "shortDescription": "A company profile website for PT Adi Mitra Tembakau",
+    "stacks": ["Laravel", "MySQL"],
+    "slug": "amt"
+  },
+
+  {
+    "image": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+    "title": "Anime List Flutter App",
+    "shortDescription": "Mobile app project to displays an anime list using the Jikan API v4.",
+    "stacks": ["Flutter"],
+    "slug": "anilist"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous.png",
+    "title": "Lucky Network Famous Website",
+    "shortDescription": "A website for Lucky Network, a Minecraft server. Enable player to register famous rank.",
+    "stacks": ["React", "ExpressJS", "MySQL"],
+    "slug": "lucky-famous"
+  },
+
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc.png",
+    "title": "Yume Reality Content Creator Tools",
+    "shortDescription": "An ERP system for Yume Reality. The system is used to manage the company's internal affairs.",
+    "stacks": ["NextJS", "NestJS", "MySQL"],
+    "slug": "yume-cc"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/yume-watch/yume-watch.png",
+    "title": "Yume Reality Watch",
+    "shortDescription": "A website for Yume Reality. The website display the company's talents content.",
+    "stacks": ["NextJS", "NestJS", "MySQL"],
+    "slug": "yume-watch"
+  }
+]
