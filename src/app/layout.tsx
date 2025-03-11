@@ -10,7 +10,7 @@ const interSans = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Raditya Bagaswara | Full Stack Developer",
+  title: "Raditya Bagaswara - Full Stack Developer",
   description:
     "Full-stack developer with a strong foundation in Business Information Systems and diverse experience in delivering scalable web applications. Proficient in multiple programming languages and frameworks, specializing in web development, system integration, and cross-functional collaboration. Passionate at solving complex technical challenges and driving user-centered software development.",
 };
