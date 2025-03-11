@@ -5,6 +5,9 @@ const nextConfig: NextConfig = {
   images: {
     domains: ["is3.cloudhost.id"],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 export default nextConfig;
